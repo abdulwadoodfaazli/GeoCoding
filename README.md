@@ -1,2 +1,4 @@
 # GeoCoding
-Using the Google GeoCoding API to retrieve data and using Google Maps to visualize the data.
+This project was made for the "Using Databases with Python" course on Coursera offered by Dr. Charles Russell Severance from the University of Michigan. It uses SQLite as the database management system and Google GeoCoding and Maps APIs to fetch and visualize any inputted address. Sample output is shown below:
+
+![Maps Visualization](/relative/path/to/img.jpg?raw=true "Address Visualization")
